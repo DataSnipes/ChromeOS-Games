@@ -5,3 +5,4 @@ A List Of Games That Are Playable On A Chromebook With Low Power Hardware
 | Genre | Game Name | Playability | Best Settings | Supports ChromeOS | Supports Xubuntu |
 |:---|:---:|:---:|:---:|:---:|---:|
 | Action RPG | South Park: The Stick Of Truth | Great | Resolution: 1080 x 720p | Yes, But Low Performance | Yes |
+| Shooter RPG | Fallout 3: Game Of The Year Edition | Fine | Low Graphical Settings | No | Yes, But Lags. |
